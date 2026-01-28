@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1769603254239",
+      "email": "nelsonmadileng57@gmail.com",
+      "password": "$2b$10$L3QiINhZcvwSsJw.EcTrReaBq5DM.iLjd5pFyRCOX.cTqSUzXXyCW",
+      "name": "NELSON",
+      "surname": "MADILENG",
+      "cellNumber": "0764694671"
+    },
+    {
+      "id": "1769604887322",
+      "email": "nelsonmadileng@gmail.com",
+      "password": "$2b$10$G/vsVRI2vWLQ/ezNn3pz1OJaI.DuWa21W7rXm/uyeClSwGUDaoPNa",
+      "name": "NELSON",
+      "surname": "MADILENG",
+      "cellNumber": "0764694671"
+    }
+  ],
+  "lists": [
+    {
+      "id": "1769604853580xmc2cqjqk",
+      "userId": "1769603254239",
+      "name": "NELSON",
+      "description": "tt",
+      "isShared": false,
+      "sharedWith": [],
+      "items": [],
+      "createdAt": "2026-01-28T12:54:13.580Z",
+      "updatedAt": "2026-01-28T12:54:13.580Z"
+    },
+    {
+      "id": "1769604897276lvrgwbcgj",
+      "userId": "1769604887322",
+      "name": "333",
+      "description": "333",
+      "isShared": false,
+      "sharedWith": [],
+      "items": [],
+      "createdAt": "2026-01-28T12:54:57.276Z",
+      "updatedAt": "2026-01-28T12:54:57.276Z"
+    }
+  ],
+  "items": [
+    {
+      "id": "1769604904294caj1p2fj6",
+      "listId": "1769604897276lvrgwbcgj",
+      "userId": "1769604887322",
+      "name": "3",
+      "quantity": 1,
+      "notes": "3",
+      "category": "meat",
+      "isCompleted": true,
+      "createdAt": "2026-01-28T12:55:04.294Z",
+      "updatedAt": "2026-01-28T12:55:06.163Z"
+    }
+  ]
+}
